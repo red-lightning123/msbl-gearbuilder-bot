@@ -1,0 +1,5186 @@
+[
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "8, -2, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "6, 2, -4, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "6, 0, 0, -4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "4, 0, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "6, 0, -4, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Muscle Chest, No Boots",
+        "stats": "6, 0, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "6, 0, 0, -4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "4, 4, -2, -4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "4, 2, 2, -6, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "4, 2, -2, -4, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Turbo Pad, No Boots",
+        "stats": "4, 2, 0, -4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "4, -2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "2, 0, 4, -4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Cannon Plate, No Boots",
+        "stats": "2, 0, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "6, -2, 0, 0, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "4, 2, -2, 0, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "4, 0, 2, -2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Chain Plate, Chain Boots",
+        "stats": "2, 0, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Chain Plate, Trick Boots",
+        "stats": "4, 0, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Chain Plate, No Boots",
+        "stats": "4, 0, 0, 0, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "4, -2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "2, 2, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "2, 0, 2, -4, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Trick Pad, Chain Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Trick Pad, Trick Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, Trick Pad, No Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, No Chest, Muscle Boots",
+        "stats": "6, -2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, No Chest, Turbo Boots",
+        "stats": "4, 2, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, No Chest, Cannon Boots",
+        "stats": "4, 0, 2, -4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, No Chest, Chain Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, No Chest, Trick Boots",
+        "stats": "4, 0, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Muscle Gauntlets, No Chest, No Boots",
+        "stats": "4, 0, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, 0, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 4, -4, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, 2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, 2, -4, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Muscle Chest, No Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 6, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 4, 2, -4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 4, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 4, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Turbo Pad, No Boots",
+        "stats": "0, 4, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 4, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, 2, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, 2, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Cannon Plate, No Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, 0, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 4, -2, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, 2, 2, 0, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, 2, 0, 4, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Chain Plate, Trick Boots",
+        "stats": "0, 2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Chain Plate, No Boots",
+        "stats": "0, 2, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 4, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, 2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, 2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, 2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, Trick Pad, No Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, No Chest, Muscle Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, No Chest, Turbo Boots",
+        "stats": "0, 4, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, No Chest, Cannon Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, No Chest, Chain Boots",
+        "stats": "-2, 2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, No Chest, Trick Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Turbo Gloves, No Chest, No Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Muscle Chest, Muscle Boots",
+        "stats": "6, -4, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Muscle Chest, Turbo Boots",
+        "stats": "4, 0, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Muscle Chest, Cannon Boots",
+        "stats": "4, -2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Muscle Chest, Chain Boots",
+        "stats": "2, -2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Muscle Chest, Trick Boots",
+        "stats": "4, -2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Muscle Chest, No Boots",
+        "stats": "4, -2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Turbo Pad, Muscle Boots",
+        "stats": "4, -2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Turbo Pad, Turbo Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Turbo Pad, Cannon Boots",
+        "stats": "2, 0, 4, -4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Turbo Pad, Chain Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Turbo Pad, Trick Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Turbo Pad, No Boots",
+        "stats": "2, 0, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Cannon Plate, Muscle Boots",
+        "stats": "2, -4, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Cannon Plate, Turbo Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Cannon Plate, Cannon Boots",
+        "stats": "0, -2, 6, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Cannon Plate, Chain Boots",
+        "stats": "-2, -2, 4, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Cannon Plate, Trick Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Cannon Plate, No Boots",
+        "stats": "0, -2, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Chain Plate, Muscle Boots",
+        "stats": "4, -4, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Chain Plate, Turbo Boots",
+        "stats": "2, 0, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Chain Plate, Cannon Boots",
+        "stats": "2, -2, 4, 0, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Chain Plate, Chain Boots",
+        "stats": "0, -2, 2, 4, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Chain Plate, Trick Boots",
+        "stats": "2, -2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Chain Plate, No Boots",
+        "stats": "2, -2, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Trick Pad, Muscle Boots",
+        "stats": "2, -4, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Trick Pad, Turbo Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Trick Pad, Cannon Boots",
+        "stats": "0, -2, 4, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Trick Pad, Chain Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Trick Pad, Trick Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, Trick Pad, No Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, No Chest, Muscle Boots",
+        "stats": "4, -4, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, No Chest, Turbo Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, No Chest, Cannon Boots",
+        "stats": "2, -2, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, No Chest, Chain Boots",
+        "stats": "0, -2, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, No Chest, Trick Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Cannon Gloves, No Chest, No Boots",
+        "stats": "2, -2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "6, -2, -4, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "4, 2, -6, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "4, 0, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "2, 0, -4, 4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "4, 0, -6, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Muscle Chest, No Boots",
+        "stats": "4, 0, -4, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "4, 0, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "2, 4, -4, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "0, 2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "2, 2, -4, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Turbo Pad, No Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "2, -2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "0, 2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-2, 0, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Cannon Plate, No Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "4, -2, -2, 4, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "2, 2, -4, 4, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "2, 0, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Chain Plate, Chain Boots",
+        "stats": "0, 0, -2, 6, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Chain Plate, Trick Boots",
+        "stats": "2, 0, -4, 4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Chain Plate, No Boots",
+        "stats": "2, 0, -2, 4, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "0, 2, -4, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-2, 0, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Trick Pad, Trick Boots",
+        "stats": "0, 0, -4, 2, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, Trick Pad, No Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, No Chest, Muscle Boots",
+        "stats": "4, -2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, No Chest, Turbo Boots",
+        "stats": "2, 2, -4, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, No Chest, Cannon Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, No Chest, Chain Boots",
+        "stats": "0, 0, -2, 4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, No Chest, Trick Boots",
+        "stats": "2, 0, -4, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Chain Gauntlets, No Chest, No Boots",
+        "stats": "2, 0, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Muscle Chest, Muscle Boots",
+        "stats": "6, -4, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Muscle Chest, Turbo Boots",
+        "stats": "4, 0, -4, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Muscle Chest, Cannon Boots",
+        "stats": "4, -2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Muscle Chest, Chain Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Muscle Chest, Trick Boots",
+        "stats": "4, -2, -4, 0, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Muscle Chest, No Boots",
+        "stats": "4, -2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Turbo Pad, Muscle Boots",
+        "stats": "4, -2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Turbo Pad, Turbo Boots",
+        "stats": "2, 2, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Turbo Pad, Cannon Boots",
+        "stats": "2, 0, 2, -4, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Turbo Pad, Chain Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Turbo Pad, Trick Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Turbo Pad, No Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Cannon Plate, Muscle Boots",
+        "stats": "2, -4, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Cannon Plate, Turbo Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Cannon Plate, Cannon Boots",
+        "stats": "0, -2, 4, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Cannon Plate, Chain Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Cannon Plate, Trick Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Cannon Plate, No Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Chain Plate, Muscle Boots",
+        "stats": "4, -4, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Chain Plate, Turbo Boots",
+        "stats": "2, 0, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Chain Plate, Cannon Boots",
+        "stats": "2, -2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Chain Plate, Chain Boots",
+        "stats": "0, -2, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Chain Plate, Trick Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Chain Plate, No Boots",
+        "stats": "2, -2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Trick Pad, Muscle Boots",
+        "stats": "2, -4, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Trick Pad, Turbo Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Trick Pad, Cannon Boots",
+        "stats": "0, -2, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Trick Pad, Chain Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Trick Pad, Trick Boots",
+        "stats": "0, -2, -2, 0, 4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, Trick Pad, No Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, No Chest, Muscle Boots",
+        "stats": "4, -4, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, No Chest, Turbo Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, No Chest, Cannon Boots",
+        "stats": "2, -2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, No Chest, Chain Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, No Chest, Trick Boots",
+        "stats": "2, -2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, Trick Gloves, No Chest, No Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Muscle Chest, Muscle Boots",
+        "stats": "6, -2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Muscle Chest, Turbo Boots",
+        "stats": "4, 2, -4, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Muscle Chest, Cannon Boots",
+        "stats": "4, 0, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Muscle Chest, Chain Boots",
+        "stats": "2, 0, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Muscle Chest, Trick Boots",
+        "stats": "4, 0, -4, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Muscle Chest, No Boots",
+        "stats": "4, 0, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Turbo Pad, Muscle Boots",
+        "stats": "4, 0, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Turbo Pad, Turbo Boots",
+        "stats": "2, 4, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Turbo Pad, Cannon Boots",
+        "stats": "2, 2, 2, -4, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Turbo Pad, Chain Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Turbo Pad, Trick Boots",
+        "stats": "2, 2, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Turbo Pad, No Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Cannon Plate, Muscle Boots",
+        "stats": "2, -2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Cannon Plate, Turbo Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Cannon Plate, Cannon Boots",
+        "stats": "0, 0, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Cannon Plate, Chain Boots",
+        "stats": "-2, 0, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Cannon Plate, Trick Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Cannon Plate, No Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Chain Plate, Muscle Boots",
+        "stats": "4, -2, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Chain Plate, Turbo Boots",
+        "stats": "2, 2, -2, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Chain Plate, Cannon Boots",
+        "stats": "2, 0, 2, 0, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Chain Plate, Chain Boots",
+        "stats": "0, 0, 0, 4, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Chain Plate, Trick Boots",
+        "stats": "2, 0, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Chain Plate, No Boots",
+        "stats": "2, 0, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Trick Pad, Muscle Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Trick Pad, Turbo Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Trick Pad, Cannon Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Trick Pad, Chain Boots",
+        "stats": "-2, 0, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Trick Pad, Trick Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, Trick Pad, No Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, No Chest, Muscle Boots",
+        "stats": "4, -2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, No Chest, Turbo Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, No Chest, Cannon Boots",
+        "stats": "2, 0, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, No Chest, Chain Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, No Chest, Trick Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Muscle Helmet, No Gloves, No Chest, No Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "6, 0, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "4, 4, -4, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "4, 2, 0, -4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "4, 2, -4, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Muscle Chest, No Boots",
+        "stats": "4, 2, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "4, 2, 0, -4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "2, 6, -2, -4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "2, 4, 2, -6, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "0, 4, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "2, 4, -2, -4, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Turbo Pad, No Boots",
+        "stats": "2, 4, 0, -4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "2, 0, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "0, 4, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "0, 2, 4, -4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Cannon Plate, No Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "4, 0, 0, 0, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "2, 4, -2, 0, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "2, 2, 2, -2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Chain Plate, Chain Boots",
+        "stats": "0, 2, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Chain Plate, Trick Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Chain Plate, No Boots",
+        "stats": "2, 2, 0, 0, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "0, 4, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "0, 2, 2, -4, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Trick Pad, Trick Boots",
+        "stats": "0, 2, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, Trick Pad, No Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, No Chest, Muscle Boots",
+        "stats": "4, 0, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, No Chest, Turbo Boots",
+        "stats": "2, 4, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, No Chest, Cannon Boots",
+        "stats": "2, 2, 2, -4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, No Chest, Chain Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, No Chest, Trick Boots",
+        "stats": "2, 2, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Muscle Gauntlets, No Chest, No Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Muscle Chest, Muscle Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Muscle Chest, Turbo Boots",
+        "stats": "0, 6, -4, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Muscle Chest, Cannon Boots",
+        "stats": "0, 4, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Muscle Chest, Chain Boots",
+        "stats": "-2, 4, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Muscle Chest, Trick Boots",
+        "stats": "0, 4, -4, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Muscle Chest, No Boots",
+        "stats": "0, 4, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Turbo Pad, Muscle Boots",
+        "stats": "0, 4, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Turbo Pad, Turbo Boots",
+        "stats": "-2, 8, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Turbo Pad, Cannon Boots",
+        "stats": "-2, 6, 2, -4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Turbo Pad, Chain Boots",
+        "stats": "-4, 6, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Turbo Pad, Trick Boots",
+        "stats": "-2, 6, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Turbo Pad, No Boots",
+        "stats": "-2, 6, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Cannon Plate, Muscle Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-4, 6, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-4, 4, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Cannon Plate, Chain Boots",
+        "stats": "-6, 4, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Cannon Plate, Trick Boots",
+        "stats": "-4, 4, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Cannon Plate, No Boots",
+        "stats": "-4, 4, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Chain Plate, Muscle Boots",
+        "stats": "0, 2, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Chain Plate, Turbo Boots",
+        "stats": "-2, 6, -2, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Chain Plate, Cannon Boots",
+        "stats": "-2, 4, 2, 0, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Chain Plate, Chain Boots",
+        "stats": "-4, 4, 0, 4, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Chain Plate, Trick Boots",
+        "stats": "-2, 4, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Chain Plate, No Boots",
+        "stats": "-2, 4, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Trick Pad, Muscle Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Trick Pad, Turbo Boots",
+        "stats": "-4, 6, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Trick Pad, Cannon Boots",
+        "stats": "-4, 4, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Trick Pad, Chain Boots",
+        "stats": "-6, 4, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Trick Pad, Trick Boots",
+        "stats": "-4, 4, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, Trick Pad, No Boots",
+        "stats": "-4, 4, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, No Chest, Muscle Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, No Chest, Turbo Boots",
+        "stats": "-2, 6, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, No Chest, Cannon Boots",
+        "stats": "-2, 4, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, No Chest, Chain Boots",
+        "stats": "-4, 4, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, No Chest, Trick Boots",
+        "stats": "-2, 4, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Turbo Gloves, No Chest, No Boots",
+        "stats": "-2, 4, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, 0, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Muscle Chest, No Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, 0, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 4, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 2, 4, -4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Turbo Pad, No Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -2, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, 0, 6, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, 0, 4, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Cannon Plate, No Boots",
+        "stats": "-2, 0, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -2, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 2, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, 0, 4, 0, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, 0, 2, 4, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Chain Plate, Trick Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Chain Plate, No Boots",
+        "stats": "0, 0, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, 0, 4, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, 0, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, Trick Pad, No Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, No Chest, Muscle Boots",
+        "stats": "2, -2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, No Chest, Turbo Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, No Chest, Cannon Boots",
+        "stats": "0, 0, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, No Chest, Chain Boots",
+        "stats": "-2, 0, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, No Chest, Trick Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Cannon Gloves, No Chest, No Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "4, 0, -4, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "2, 4, -6, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "0, 2, -4, 4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "2, 2, -6, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Muscle Chest, No Boots",
+        "stats": "2, 2, -4, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "0, 6, -4, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "0, 4, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "-2, 4, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "0, 4, -4, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Turbo Pad, No Boots",
+        "stats": "0, 4, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "-2, 4, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-4, 2, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "-2, 2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Cannon Plate, No Boots",
+        "stats": "-2, 2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "2, 0, -2, 4, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "0, 4, -4, 4, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "0, 2, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Chain Plate, Chain Boots",
+        "stats": "-2, 2, -2, 6, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Chain Plate, Trick Boots",
+        "stats": "0, 2, -4, 4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Chain Plate, No Boots",
+        "stats": "0, 2, -2, 4, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "-2, 4, -4, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-4, 2, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Trick Pad, Trick Boots",
+        "stats": "-2, 2, -4, 2, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, Trick Pad, No Boots",
+        "stats": "-2, 2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, No Chest, Muscle Boots",
+        "stats": "2, 0, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, No Chest, Turbo Boots",
+        "stats": "0, 4, -4, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, No Chest, Cannon Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, No Chest, Chain Boots",
+        "stats": "-2, 2, -2, 4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, No Chest, Trick Boots",
+        "stats": "0, 2, -4, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Chain Gauntlets, No Chest, No Boots",
+        "stats": "0, 2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 2, -4, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, 0, -4, 0, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Muscle Chest, No Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 4, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 2, 2, -4, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 2, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Turbo Pad, No Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, 0, 4, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, 0, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Cannon Plate, No Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, 0, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Chain Plate, Trick Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Chain Plate, No Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, 0, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, 0, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, 0, -2, 0, 4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, Trick Pad, No Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, No Chest, Muscle Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, No Chest, Turbo Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, No Chest, Cannon Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, No Chest, Chain Boots",
+        "stats": "-2, 0, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, No Chest, Trick Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, Trick Gloves, No Chest, No Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, 0, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 4, -4, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, 2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, 2, -4, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Muscle Chest, No Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 6, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 4, 2, -4, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 4, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 4, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Turbo Pad, No Boots",
+        "stats": "0, 4, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 4, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, 2, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, 2, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Cannon Plate, No Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, 0, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 4, -2, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, 2, 2, 0, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, 2, 0, 4, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Chain Plate, Trick Boots",
+        "stats": "0, 2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Chain Plate, No Boots",
+        "stats": "0, 2, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 4, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, 2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, 2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, 2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, Trick Pad, No Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, No Chest, Muscle Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, No Chest, Turbo Boots",
+        "stats": "0, 4, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, No Chest, Cannon Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, No Chest, Chain Boots",
+        "stats": "-2, 2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, No Chest, Trick Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Turbo Helmet, No Gloves, No Chest, No Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "6, -2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "4, 2, -2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "4, 0, 2, -4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "4, 0, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Muscle Chest, No Boots",
+        "stats": "4, 0, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "4, 0, 2, -4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "2, 4, 0, -4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "2, 2, 4, -6, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "2, 2, 0, -4, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Turbo Pad, No Boots",
+        "stats": "2, 2, 2, -4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "2, -2, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "0, 0, 6, -4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-2, 0, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Cannon Plate, No Boots",
+        "stats": "0, 0, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "4, -2, 2, 0, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "2, 2, 0, 0, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "2, 0, 4, -2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Chain Plate, Chain Boots",
+        "stats": "0, 0, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Chain Plate, Trick Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Chain Plate, No Boots",
+        "stats": "2, 0, 2, 0, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "2, -2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "0, 0, 4, -4, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Trick Pad, Trick Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, Trick Pad, No Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, No Chest, Muscle Boots",
+        "stats": "4, -2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, No Chest, Turbo Boots",
+        "stats": "2, 2, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, No Chest, Cannon Boots",
+        "stats": "2, 0, 4, -4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, No Chest, Chain Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, No Chest, Trick Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Muscle Gauntlets, No Chest, No Boots",
+        "stats": "2, 0, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Muscle Chest, Muscle Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Muscle Chest, Turbo Boots",
+        "stats": "0, 4, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Muscle Chest, Cannon Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Muscle Chest, Chain Boots",
+        "stats": "-2, 2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Muscle Chest, Trick Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Muscle Chest, No Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Turbo Pad, Muscle Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Turbo Pad, Turbo Boots",
+        "stats": "-2, 6, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Turbo Pad, Cannon Boots",
+        "stats": "-2, 4, 4, -4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Turbo Pad, Chain Boots",
+        "stats": "-4, 4, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Turbo Pad, Trick Boots",
+        "stats": "-2, 4, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Turbo Pad, No Boots",
+        "stats": "-2, 4, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Cannon Plate, Muscle Boots",
+        "stats": "-2, 0, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-4, 4, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-4, 2, 6, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Cannon Plate, Chain Boots",
+        "stats": "-6, 2, 4, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Cannon Plate, Trick Boots",
+        "stats": "-4, 2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Cannon Plate, No Boots",
+        "stats": "-4, 2, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Chain Plate, Muscle Boots",
+        "stats": "0, 0, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Chain Plate, Turbo Boots",
+        "stats": "-2, 4, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Chain Plate, Cannon Boots",
+        "stats": "-2, 2, 4, 0, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Chain Plate, Chain Boots",
+        "stats": "-4, 2, 2, 4, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Chain Plate, Trick Boots",
+        "stats": "-2, 2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Chain Plate, No Boots",
+        "stats": "-2, 2, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Trick Pad, Muscle Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Trick Pad, Turbo Boots",
+        "stats": "-4, 4, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Trick Pad, Cannon Boots",
+        "stats": "-4, 2, 4, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Trick Pad, Chain Boots",
+        "stats": "-6, 2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Trick Pad, Trick Boots",
+        "stats": "-4, 2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, Trick Pad, No Boots",
+        "stats": "-4, 2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, No Chest, Muscle Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, No Chest, Turbo Boots",
+        "stats": "-2, 4, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, No Chest, Cannon Boots",
+        "stats": "-2, 2, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, No Chest, Chain Boots",
+        "stats": "-4, 2, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, No Chest, Trick Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Turbo Gloves, No Chest, No Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -4, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, -2, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, -2, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Muscle Chest, No Boots",
+        "stats": "2, -2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, -2, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 0, 6, -4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 0, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Turbo Pad, No Boots",
+        "stats": "0, 0, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -4, 6, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 0, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, -2, 8, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, -2, 6, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, -2, 4, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Cannon Plate, No Boots",
+        "stats": "-2, -2, 6, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -4, 4, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 0, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, -2, 6, 0, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, -2, 4, 4, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Chain Plate, Trick Boots",
+        "stats": "0, -2, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Chain Plate, No Boots",
+        "stats": "0, -2, 4, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -4, 4, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, -2, 6, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, -2, 4, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, -2, 2, 0, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, Trick Pad, No Boots",
+        "stats": "-2, -2, 4, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, No Chest, Muscle Boots",
+        "stats": "2, -4, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, No Chest, Turbo Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, No Chest, Cannon Boots",
+        "stats": "0, -2, 6, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, No Chest, Chain Boots",
+        "stats": "-2, -2, 4, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, No Chest, Trick Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Cannon Gloves, No Chest, No Boots",
+        "stats": "0, -2, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "4, -2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "2, 2, -4, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "0, 0, -2, 4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "2, 0, -4, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Muscle Chest, No Boots",
+        "stats": "2, 0, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "0, 4, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "-2, 2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Turbo Pad, No Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "0, -2, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "-2, 2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "-2, 0, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-4, 0, 2, 4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "-2, 0, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Cannon Plate, No Boots",
+        "stats": "-2, 0, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "2, -2, 0, 4, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "0, 2, -2, 4, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "0, 0, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Chain Plate, Chain Boots",
+        "stats": "-2, 0, 0, 6, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Chain Plate, Trick Boots",
+        "stats": "0, 0, -2, 4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Chain Plate, No Boots",
+        "stats": "0, 0, 0, 4, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "-2, 2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-4, 0, 0, 4, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Trick Pad, Trick Boots",
+        "stats": "-2, 0, -2, 2, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, Trick Pad, No Boots",
+        "stats": "-2, 0, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, No Chest, Muscle Boots",
+        "stats": "2, -2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, No Chest, Turbo Boots",
+        "stats": "0, 2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, No Chest, Cannon Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, No Chest, Chain Boots",
+        "stats": "-2, 0, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, No Chest, Trick Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Chain Gauntlets, No Chest, No Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -4, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, -2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, -2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Muscle Chest, No Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, -2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 0, 4, -4, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Turbo Pad, No Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -4, 4, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, -2, 6, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, -2, 4, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, -2, 2, 0, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Cannon Plate, No Boots",
+        "stats": "-2, -2, 4, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -4, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, -2, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, -2, 2, 4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Chain Plate, Trick Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Chain Plate, No Boots",
+        "stats": "0, -2, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -4, 2, 0, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, -2, 4, -2, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, -2, 2, 2, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, -2, 0, 0, 4"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, Trick Pad, No Boots",
+        "stats": "-2, -2, 2, 0, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, No Chest, Muscle Boots",
+        "stats": "2, -4, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, No Chest, Turbo Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, No Chest, Cannon Boots",
+        "stats": "0, -2, 4, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, No Chest, Chain Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, No Chest, Trick Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, Trick Gloves, No Chest, No Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, 0, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Muscle Chest, No Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, 0, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 4, 0, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 2, 4, -4, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Turbo Pad, No Boots",
+        "stats": "0, 2, 2, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -2, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, 0, 6, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, 0, 4, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Cannon Plate, No Boots",
+        "stats": "-2, 0, 4, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -2, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 2, 0, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, 0, 4, 0, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, 0, 2, 4, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Chain Plate, Trick Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Chain Plate, No Boots",
+        "stats": "0, 0, 2, 2, -4"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, 0, 4, -2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, 0, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, Trick Pad, No Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, No Chest, Muscle Boots",
+        "stats": "2, -2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, No Chest, Turbo Boots",
+        "stats": "0, 2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, No Chest, Cannon Boots",
+        "stats": "0, 0, 4, -2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, No Chest, Chain Boots",
+        "stats": "-2, 0, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, No Chest, Trick Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Cannon Visor, No Gloves, No Chest, No Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "6, -4, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "4, 0, -4, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "4, -2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "4, -2, -4, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Muscle Chest, No Boots",
+        "stats": "4, -2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "4, -2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "2, 2, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "2, 0, 2, -4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Turbo Pad, No Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "2, -4, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "0, -2, 4, -2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Cannon Plate, No Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "4, -4, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "2, 0, -2, 2, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "2, -2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Chain Plate, Chain Boots",
+        "stats": "0, -2, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Chain Plate, Trick Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Chain Plate, No Boots",
+        "stats": "2, -2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "2, -4, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "0, -2, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Trick Pad, Trick Boots",
+        "stats": "0, -2, -2, 0, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, Trick Pad, No Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, No Chest, Muscle Boots",
+        "stats": "4, -4, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, No Chest, Turbo Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, No Chest, Cannon Boots",
+        "stats": "2, -2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, No Chest, Chain Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, No Chest, Trick Boots",
+        "stats": "2, -2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Muscle Gauntlets, No Chest, No Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Muscle Chest, Muscle Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Muscle Chest, Turbo Boots",
+        "stats": "0, 2, -4, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Muscle Chest, Cannon Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Muscle Chest, Chain Boots",
+        "stats": "-2, 0, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Muscle Chest, Trick Boots",
+        "stats": "0, 0, -4, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Muscle Chest, No Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Turbo Pad, Muscle Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Turbo Pad, Turbo Boots",
+        "stats": "-2, 4, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Turbo Pad, Cannon Boots",
+        "stats": "-2, 2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Turbo Pad, Chain Boots",
+        "stats": "-4, 2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Turbo Pad, Trick Boots",
+        "stats": "-2, 2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Turbo Pad, No Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Cannon Plate, Muscle Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-4, 2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-4, 0, 4, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Cannon Plate, Chain Boots",
+        "stats": "-6, 0, 2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Cannon Plate, Trick Boots",
+        "stats": "-4, 0, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Cannon Plate, No Boots",
+        "stats": "-4, 0, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Chain Plate, Muscle Boots",
+        "stats": "0, -2, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Chain Plate, Turbo Boots",
+        "stats": "-2, 2, -2, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Chain Plate, Cannon Boots",
+        "stats": "-2, 0, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Chain Plate, Chain Boots",
+        "stats": "-4, 0, 0, 6, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Chain Plate, Trick Boots",
+        "stats": "-2, 0, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Chain Plate, No Boots",
+        "stats": "-2, 0, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Trick Pad, Muscle Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Trick Pad, Turbo Boots",
+        "stats": "-4, 2, -2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Trick Pad, Cannon Boots",
+        "stats": "-4, 0, 2, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Trick Pad, Chain Boots",
+        "stats": "-6, 0, 0, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Trick Pad, Trick Boots",
+        "stats": "-4, 0, -2, 2, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, Trick Pad, No Boots",
+        "stats": "-4, 0, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, No Chest, Muscle Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, No Chest, Turbo Boots",
+        "stats": "-2, 2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, No Chest, Cannon Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, No Chest, Chain Boots",
+        "stats": "-4, 0, 0, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, No Chest, Trick Boots",
+        "stats": "-2, 0, -2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Turbo Gloves, No Chest, No Boots",
+        "stats": "-2, 0, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -6, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, -4, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, -4, 0, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, -4, -2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Muscle Chest, No Boots",
+        "stats": "2, -4, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, -4, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, -2, 4, -2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Turbo Pad, No Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -6, 4, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, -4, 6, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, -4, 4, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, -4, 2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Cannon Plate, No Boots",
+        "stats": "-2, -4, 4, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -6, 2, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, -2, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, -4, 4, 2, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, -4, 2, 6, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Chain Plate, Trick Boots",
+        "stats": "0, -4, 0, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Chain Plate, No Boots",
+        "stats": "0, -4, 2, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -6, 2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, -4, 4, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, -4, 2, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, -4, 0, 2, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, Trick Pad, No Boots",
+        "stats": "-2, -4, 2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, No Chest, Muscle Boots",
+        "stats": "2, -6, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, No Chest, Turbo Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, No Chest, Cannon Boots",
+        "stats": "0, -4, 4, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, No Chest, Chain Boots",
+        "stats": "-2, -4, 2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, No Chest, Trick Boots",
+        "stats": "0, -4, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Cannon Gloves, No Chest, No Boots",
+        "stats": "0, -4, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "4, -4, -4, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "2, 0, -6, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "0, -2, -4, 6, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "2, -2, -6, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Muscle Chest, No Boots",
+        "stats": "2, -2, -4, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "0, 2, -4, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "-2, 0, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "0, 0, -4, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Turbo Pad, No Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "0, -4, 0, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "-2, 0, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-4, -2, 0, 6, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "-2, -2, -2, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Cannon Plate, No Boots",
+        "stats": "-2, -2, 0, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "2, -4, -2, 6, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "0, 0, -4, 6, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "0, -2, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Chain Plate, Chain Boots",
+        "stats": "-2, -2, -2, 8, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Chain Plate, Trick Boots",
+        "stats": "0, -2, -4, 6, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Chain Plate, No Boots",
+        "stats": "0, -2, -2, 6, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "0, -4, -2, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "-2, 0, -4, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-4, -2, -2, 6, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Trick Pad, Trick Boots",
+        "stats": "-2, -2, -4, 4, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, Trick Pad, No Boots",
+        "stats": "-2, -2, -2, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, No Chest, Muscle Boots",
+        "stats": "2, -4, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, No Chest, Turbo Boots",
+        "stats": "0, 0, -4, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, No Chest, Cannon Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, No Chest, Chain Boots",
+        "stats": "-2, -2, -2, 6, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, No Chest, Trick Boots",
+        "stats": "0, -2, -4, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Chain Gauntlets, No Chest, No Boots",
+        "stats": "0, -2, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -6, -2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, -2, -4, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, -4, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, -4, -2, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, -4, -4, 2, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Muscle Chest, No Boots",
+        "stats": "2, -4, -2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, -4, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, -2, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, -2, -2, 0, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Turbo Pad, No Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -6, 2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, -4, 4, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, -4, 2, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, -4, 0, 2, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Cannon Plate, No Boots",
+        "stats": "-2, -4, 2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -6, 0, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, -2, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, -4, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, -4, 0, 6, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Chain Plate, Trick Boots",
+        "stats": "0, -4, -2, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Chain Plate, No Boots",
+        "stats": "0, -4, 0, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -6, 0, 2, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, -2, -2, 2, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, -4, 2, 0, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, -4, 0, 4, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, -4, -2, 2, 6"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, Trick Pad, No Boots",
+        "stats": "-2, -4, 0, 2, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, No Chest, Muscle Boots",
+        "stats": "2, -6, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, No Chest, Turbo Boots",
+        "stats": "0, -2, -2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, No Chest, Cannon Boots",
+        "stats": "0, -4, 2, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, No Chest, Chain Boots",
+        "stats": "-2, -4, 0, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, No Chest, Trick Boots",
+        "stats": "0, -4, -2, 2, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, Trick Gloves, No Chest, No Boots",
+        "stats": "0, -4, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -4, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 0, -4, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, -2, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, -2, -4, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Muscle Chest, No Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 0, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Turbo Pad, No Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -4, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 0, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, -2, 4, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, -2, 2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Cannon Plate, No Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -4, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 0, -2, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, -2, 2, 2, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, -2, 0, 6, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Chain Plate, Trick Boots",
+        "stats": "0, -2, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Chain Plate, No Boots",
+        "stats": "0, -2, 0, 4, -2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -4, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 0, -2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, -2, 2, 0, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, -2, 0, 4, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, -2, -2, 2, 4"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, Trick Pad, No Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, No Chest, Muscle Boots",
+        "stats": "2, -4, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, No Chest, Turbo Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, No Chest, Cannon Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, No Chest, Chain Boots",
+        "stats": "-2, -2, 0, 4, 0"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, No Chest, Trick Boots",
+        "stats": "0, -2, -2, 2, 2"
+    },
+    {
+        "gear_selection": "Chain Helmet, No Gloves, No Chest, No Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "6, -2, -2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "4, 2, -4, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "4, 0, 0, -6, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "4, 0, -4, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Muscle Chest, No Boots",
+        "stats": "4, 0, -2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "4, 0, 0, -6, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "2, 4, -2, -6, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "2, 2, 2, -8, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "0, 2, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "2, 2, -2, -6, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Turbo Pad, No Boots",
+        "stats": "2, 2, 0, -6, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "2, -2, 2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "0, 2, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "0, 0, 4, -6, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-2, 0, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "0, 0, 0, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Cannon Plate, No Boots",
+        "stats": "0, 0, 2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "4, -2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "2, 2, -2, -2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "2, 0, 2, -4, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Chain Plate, Chain Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Chain Plate, Trick Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Chain Plate, No Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "2, -2, 0, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "0, 2, -2, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "0, 0, 2, -6, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-2, 0, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Trick Pad, Trick Boots",
+        "stats": "0, 0, -2, -4, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, Trick Pad, No Boots",
+        "stats": "0, 0, 0, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, No Chest, Muscle Boots",
+        "stats": "4, -2, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, No Chest, Turbo Boots",
+        "stats": "2, 2, -2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, No Chest, Cannon Boots",
+        "stats": "2, 0, 2, -6, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, No Chest, Chain Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, No Chest, Trick Boots",
+        "stats": "2, 0, -2, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Muscle Gauntlets, No Chest, No Boots",
+        "stats": "2, 0, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Muscle Chest, Muscle Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Muscle Chest, Turbo Boots",
+        "stats": "0, 4, -4, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Muscle Chest, Cannon Boots",
+        "stats": "0, 2, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Muscle Chest, Chain Boots",
+        "stats": "-2, 2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Muscle Chest, Trick Boots",
+        "stats": "0, 2, -4, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Muscle Chest, No Boots",
+        "stats": "0, 2, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Turbo Pad, Muscle Boots",
+        "stats": "0, 2, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Turbo Pad, Turbo Boots",
+        "stats": "-2, 6, -2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Turbo Pad, Cannon Boots",
+        "stats": "-2, 4, 2, -6, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Turbo Pad, Chain Boots",
+        "stats": "-4, 4, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Turbo Pad, Trick Boots",
+        "stats": "-2, 4, -2, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Turbo Pad, No Boots",
+        "stats": "-2, 4, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Cannon Plate, Muscle Boots",
+        "stats": "-2, 0, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-4, 4, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-4, 2, 4, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Cannon Plate, Chain Boots",
+        "stats": "-6, 2, 2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Cannon Plate, Trick Boots",
+        "stats": "-4, 2, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Cannon Plate, No Boots",
+        "stats": "-4, 2, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Chain Plate, Muscle Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Chain Plate, Turbo Boots",
+        "stats": "-2, 4, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Chain Plate, Cannon Boots",
+        "stats": "-2, 2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Chain Plate, Chain Boots",
+        "stats": "-4, 2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Chain Plate, Trick Boots",
+        "stats": "-2, 2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Chain Plate, No Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Trick Pad, Muscle Boots",
+        "stats": "-2, 0, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Trick Pad, Turbo Boots",
+        "stats": "-4, 4, -2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Trick Pad, Cannon Boots",
+        "stats": "-4, 2, 2, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Trick Pad, Chain Boots",
+        "stats": "-6, 2, 0, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Trick Pad, Trick Boots",
+        "stats": "-4, 2, -2, -2, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, Trick Pad, No Boots",
+        "stats": "-4, 2, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, No Chest, Muscle Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, No Chest, Turbo Boots",
+        "stats": "-2, 4, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, No Chest, Cannon Boots",
+        "stats": "-2, 2, 2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, No Chest, Chain Boots",
+        "stats": "-4, 2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, No Chest, Trick Boots",
+        "stats": "-2, 2, -2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Turbo Gloves, No Chest, No Boots",
+        "stats": "-2, 2, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -4, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, -2, 2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, -2, -2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Muscle Chest, No Boots",
+        "stats": "2, -2, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, -2, 2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 2, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 0, 4, -6, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 0, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 0, 0, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Turbo Pad, No Boots",
+        "stats": "0, 0, 2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -4, 4, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 0, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, -2, 6, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, -2, 4, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, -2, 2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Cannon Plate, No Boots",
+        "stats": "-2, -2, 4, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -4, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, -2, 4, -2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Chain Plate, Trick Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Chain Plate, No Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -4, 2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 0, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, -2, 4, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, -2, 2, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, -2, 0, -2, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, Trick Pad, No Boots",
+        "stats": "-2, -2, 2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, No Chest, Muscle Boots",
+        "stats": "2, -4, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, No Chest, Turbo Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, No Chest, Cannon Boots",
+        "stats": "0, -2, 4, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, No Chest, Chain Boots",
+        "stats": "-2, -2, 2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, No Chest, Trick Boots",
+        "stats": "0, -2, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Cannon Gloves, No Chest, No Boots",
+        "stats": "0, -2, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "4, -2, -4, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "2, 2, -6, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "0, 0, -4, 2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "2, 0, -6, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Muscle Chest, No Boots",
+        "stats": "2, 0, -4, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "0, 4, -4, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "0, 2, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "-2, 2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "0, 2, -4, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Turbo Pad, No Boots",
+        "stats": "0, 2, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "-2, 2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "-2, 0, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-4, 0, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "-2, 0, -2, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Cannon Plate, No Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "0, 2, -4, 2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Chain Plate, Chain Boots",
+        "stats": "-2, 0, -2, 4, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Chain Plate, Trick Boots",
+        "stats": "0, 0, -4, 2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Chain Plate, No Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "0, -2, -2, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "-2, 2, -4, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "-2, 0, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-4, 0, -2, 2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Trick Pad, Trick Boots",
+        "stats": "-2, 0, -4, 0, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, Trick Pad, No Boots",
+        "stats": "-2, 0, -2, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, No Chest, Muscle Boots",
+        "stats": "2, -2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, No Chest, Turbo Boots",
+        "stats": "0, 2, -4, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, No Chest, Cannon Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, No Chest, Chain Boots",
+        "stats": "-2, 0, -2, 2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, No Chest, Trick Boots",
+        "stats": "0, 0, -4, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Chain Gauntlets, No Chest, No Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -4, -2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 0, -4, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, -2, 0, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, -2, -2, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, -2, -4, -2, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Muscle Chest, No Boots",
+        "stats": "2, -2, -2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, -2, 0, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 2, -2, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 0, 2, -6, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 0, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 0, -2, -4, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Turbo Pad, No Boots",
+        "stats": "0, 0, 0, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -4, 2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 0, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, -2, 4, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, -2, 2, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, -2, 0, -2, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Cannon Plate, No Boots",
+        "stats": "-2, -2, 2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -4, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, -2, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Chain Plate, Trick Boots",
+        "stats": "0, -2, -2, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Chain Plate, No Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -4, 0, -2, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 0, -2, -2, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, -2, 2, -4, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, -2, 0, 0, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, -2, -2, -2, 8"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, Trick Pad, No Boots",
+        "stats": "-2, -2, 0, -2, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, No Chest, Muscle Boots",
+        "stats": "2, -4, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, No Chest, Turbo Boots",
+        "stats": "0, 0, -2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, No Chest, Cannon Boots",
+        "stats": "0, -2, 2, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, No Chest, Chain Boots",
+        "stats": "-2, -2, 0, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, No Chest, Trick Boots",
+        "stats": "0, -2, -2, -2, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, Trick Gloves, No Chest, No Boots",
+        "stats": "0, -2, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -2, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 2, -4, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, 0, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, 0, -4, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Muscle Chest, No Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, 0, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 4, -2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 2, 2, -6, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 2, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 2, -2, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Turbo Pad, No Boots",
+        "stats": "0, 2, 0, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -2, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 2, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, 0, 4, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, 0, 2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, 0, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Cannon Plate, No Boots",
+        "stats": "-2, 0, 2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, 0, 0, 2, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Chain Plate, Trick Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Chain Plate, No Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -2, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 2, -2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, 0, 2, -4, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, 0, 0, 0, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, 0, -2, -2, 6"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, Trick Pad, No Boots",
+        "stats": "-2, 0, 0, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, No Chest, Muscle Boots",
+        "stats": "2, -2, 0, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, No Chest, Turbo Boots",
+        "stats": "0, 2, -2, -2, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, No Chest, Cannon Boots",
+        "stats": "0, 0, 2, -4, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, No Chest, Chain Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, No Chest, Trick Boots",
+        "stats": "0, 0, -2, -2, 4"
+    },
+    {
+        "gear_selection": "Trick Helmet, No Gloves, No Chest, No Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "6, -2, -2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "4, 2, -4, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "4, 0, 0, -4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "4, 0, -4, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Muscle Chest, No Boots",
+        "stats": "4, 0, -2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "4, 0, 0, -4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "2, 4, -2, -4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "2, 2, 2, -6, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "2, 2, -2, -4, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Turbo Pad, No Boots",
+        "stats": "2, 2, 0, -4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "2, -2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "0, 0, 4, -4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Cannon Plate, No Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "4, -2, 0, 0, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "2, 2, -2, 0, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "2, 0, 2, -2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Chain Plate, Chain Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Chain Plate, Trick Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Chain Plate, No Boots",
+        "stats": "2, 0, 0, 0, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "2, -2, 0, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "0, 2, -2, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "0, 0, 2, -4, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Trick Pad, Trick Boots",
+        "stats": "0, 0, -2, -2, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, Trick Pad, No Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, No Chest, Muscle Boots",
+        "stats": "4, -2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, No Chest, Turbo Boots",
+        "stats": "2, 2, -2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, No Chest, Cannon Boots",
+        "stats": "2, 0, 2, -4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, No Chest, Chain Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, No Chest, Trick Boots",
+        "stats": "2, 0, -2, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Muscle Gauntlets, No Chest, No Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Muscle Chest, Muscle Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Muscle Chest, Turbo Boots",
+        "stats": "0, 4, -4, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Muscle Chest, Cannon Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Muscle Chest, Chain Boots",
+        "stats": "-2, 2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Muscle Chest, Trick Boots",
+        "stats": "0, 2, -4, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Muscle Chest, No Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Turbo Pad, Muscle Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Turbo Pad, Turbo Boots",
+        "stats": "-2, 6, -2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Turbo Pad, Cannon Boots",
+        "stats": "-2, 4, 2, -4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Turbo Pad, Chain Boots",
+        "stats": "-4, 4, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Turbo Pad, Trick Boots",
+        "stats": "-2, 4, -2, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Turbo Pad, No Boots",
+        "stats": "-2, 4, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Cannon Plate, Muscle Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-4, 4, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-4, 2, 4, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Cannon Plate, Chain Boots",
+        "stats": "-6, 2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Cannon Plate, Trick Boots",
+        "stats": "-4, 2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Cannon Plate, No Boots",
+        "stats": "-4, 2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Chain Plate, Muscle Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Chain Plate, Turbo Boots",
+        "stats": "-2, 4, -2, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Chain Plate, Cannon Boots",
+        "stats": "-2, 2, 2, 0, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Chain Plate, Chain Boots",
+        "stats": "-4, 2, 0, 4, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Chain Plate, Trick Boots",
+        "stats": "-2, 2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Chain Plate, No Boots",
+        "stats": "-2, 2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Trick Pad, Muscle Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Trick Pad, Turbo Boots",
+        "stats": "-4, 4, -2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Trick Pad, Cannon Boots",
+        "stats": "-4, 2, 2, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Trick Pad, Chain Boots",
+        "stats": "-6, 2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Trick Pad, Trick Boots",
+        "stats": "-4, 2, -2, 0, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, Trick Pad, No Boots",
+        "stats": "-4, 2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, No Chest, Muscle Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, No Chest, Turbo Boots",
+        "stats": "-2, 4, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, No Chest, Cannon Boots",
+        "stats": "-2, 2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, No Chest, Chain Boots",
+        "stats": "-4, 2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, No Chest, Trick Boots",
+        "stats": "-2, 2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Turbo Gloves, No Chest, No Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -4, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, -2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, -2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Muscle Chest, No Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, -2, 2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 0, 4, -4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Turbo Pad, No Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -4, 4, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, -2, 6, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, -2, 4, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, -2, 2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Cannon Plate, No Boots",
+        "stats": "-2, -2, 4, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -4, 2, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, -2, 4, 0, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, -2, 2, 4, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Chain Plate, Trick Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Chain Plate, No Boots",
+        "stats": "0, -2, 2, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -4, 2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, -2, 4, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, -2, 2, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, -2, 0, 0, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, Trick Pad, No Boots",
+        "stats": "-2, -2, 2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, No Chest, Muscle Boots",
+        "stats": "2, -4, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, No Chest, Turbo Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, No Chest, Cannon Boots",
+        "stats": "0, -2, 4, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, No Chest, Chain Boots",
+        "stats": "-2, -2, 2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, No Chest, Trick Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Cannon Gloves, No Chest, No Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Muscle Chest, Muscle Boots",
+        "stats": "4, -2, -4, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Muscle Chest, Turbo Boots",
+        "stats": "2, 2, -6, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Muscle Chest, Cannon Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Muscle Chest, Chain Boots",
+        "stats": "0, 0, -4, 4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Muscle Chest, Trick Boots",
+        "stats": "2, 0, -6, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Muscle Chest, No Boots",
+        "stats": "2, 0, -4, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Turbo Pad, Muscle Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Turbo Pad, Turbo Boots",
+        "stats": "0, 4, -4, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Turbo Pad, Cannon Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Turbo Pad, Chain Boots",
+        "stats": "-2, 2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Turbo Pad, Trick Boots",
+        "stats": "0, 2, -4, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Turbo Pad, No Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Cannon Plate, Muscle Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Cannon Plate, Turbo Boots",
+        "stats": "-2, 2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Cannon Plate, Cannon Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Cannon Plate, Chain Boots",
+        "stats": "-4, 0, 0, 4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Cannon Plate, Trick Boots",
+        "stats": "-2, 0, -2, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Cannon Plate, No Boots",
+        "stats": "-2, 0, 0, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Chain Plate, Muscle Boots",
+        "stats": "2, -2, -2, 4, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Chain Plate, Turbo Boots",
+        "stats": "0, 2, -4, 4, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Chain Plate, Cannon Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Chain Plate, Chain Boots",
+        "stats": "-2, 0, -2, 6, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Chain Plate, Trick Boots",
+        "stats": "0, 0, -4, 4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Chain Plate, No Boots",
+        "stats": "0, 0, -2, 4, -2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Trick Pad, Muscle Boots",
+        "stats": "0, -2, -2, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Trick Pad, Turbo Boots",
+        "stats": "-2, 2, -4, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Trick Pad, Cannon Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Trick Pad, Chain Boots",
+        "stats": "-4, 0, -2, 4, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Trick Pad, Trick Boots",
+        "stats": "-2, 0, -4, 2, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, Trick Pad, No Boots",
+        "stats": "-2, 0, -2, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, No Chest, Muscle Boots",
+        "stats": "2, -2, -2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, No Chest, Turbo Boots",
+        "stats": "0, 2, -4, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, No Chest, Cannon Boots",
+        "stats": "0, 0, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, No Chest, Chain Boots",
+        "stats": "-2, 0, -2, 4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, No Chest, Trick Boots",
+        "stats": "0, 0, -4, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Chain Gauntlets, No Chest, No Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -4, -2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 0, -4, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, -2, 0, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, -2, -2, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, -2, -4, 0, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Muscle Chest, No Boots",
+        "stats": "2, -2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, -2, 0, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 2, -2, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 0, 2, -4, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 0, -2, -2, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Turbo Pad, No Boots",
+        "stats": "0, 0, 0, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -4, 2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, -2, 4, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, -2, 2, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, -2, 0, 0, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Cannon Plate, No Boots",
+        "stats": "-2, -2, 2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -4, 0, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, -2, 0, 4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Chain Plate, Trick Boots",
+        "stats": "0, -2, -2, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Chain Plate, No Boots",
+        "stats": "0, -2, 0, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -4, 0, 0, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 0, -2, 0, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, -2, 2, -2, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, -2, 0, 2, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, -2, -2, 0, 6"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, Trick Pad, No Boots",
+        "stats": "-2, -2, 0, 0, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, No Chest, Muscle Boots",
+        "stats": "2, -4, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, No Chest, Turbo Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, No Chest, Cannon Boots",
+        "stats": "0, -2, 2, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, No Chest, Chain Boots",
+        "stats": "-2, -2, 0, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, No Chest, Trick Boots",
+        "stats": "0, -2, -2, 0, 4"
+    },
+    {
+        "gear_selection": "No Helmet, Trick Gloves, No Chest, No Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Muscle Chest, Muscle Boots",
+        "stats": "4, -2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Muscle Chest, Turbo Boots",
+        "stats": "2, 2, -4, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Muscle Chest, Cannon Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Muscle Chest, Chain Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Muscle Chest, Trick Boots",
+        "stats": "2, 0, -4, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Muscle Chest, No Boots",
+        "stats": "2, 0, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Turbo Pad, Muscle Boots",
+        "stats": "2, 0, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Turbo Pad, Turbo Boots",
+        "stats": "0, 4, -2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Turbo Pad, Cannon Boots",
+        "stats": "0, 2, 2, -4, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Turbo Pad, Chain Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Turbo Pad, Trick Boots",
+        "stats": "0, 2, -2, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Turbo Pad, No Boots",
+        "stats": "0, 2, 0, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Cannon Plate, Muscle Boots",
+        "stats": "0, -2, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Cannon Plate, Turbo Boots",
+        "stats": "-2, 2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Cannon Plate, Cannon Boots",
+        "stats": "-2, 0, 4, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Cannon Plate, Chain Boots",
+        "stats": "-4, 0, 2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Cannon Plate, Trick Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Cannon Plate, No Boots",
+        "stats": "-2, 0, 2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Chain Plate, Muscle Boots",
+        "stats": "2, -2, 0, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Chain Plate, Turbo Boots",
+        "stats": "0, 2, -2, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Chain Plate, Cannon Boots",
+        "stats": "0, 0, 2, 0, -2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Chain Plate, Chain Boots",
+        "stats": "-2, 0, 0, 4, -2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Chain Plate, Trick Boots",
+        "stats": "0, 0, -2, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Chain Plate, No Boots",
+        "stats": "0, 0, 0, 2, -2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Trick Pad, Muscle Boots",
+        "stats": "0, -2, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Trick Pad, Turbo Boots",
+        "stats": "-2, 2, -2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Trick Pad, Cannon Boots",
+        "stats": "-2, 0, 2, -2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Trick Pad, Chain Boots",
+        "stats": "-4, 0, 0, 2, 2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Trick Pad, Trick Boots",
+        "stats": "-2, 0, -2, 0, 4"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, Trick Pad, No Boots",
+        "stats": "-2, 0, 0, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, No Chest, Muscle Boots",
+        "stats": "2, -2, 0, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, No Chest, Turbo Boots",
+        "stats": "0, 2, -2, 0, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, No Chest, Cannon Boots",
+        "stats": "0, 0, 2, -2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, No Chest, Chain Boots",
+        "stats": "-2, 0, 0, 2, 0"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, No Chest, Trick Boots",
+        "stats": "0, 0, -2, 0, 2"
+    },
+    {
+        "gear_selection": "No Helmet, No Gloves, No Chest, No Boots",
+        "stats": "0, 0, 0, 0, 0"
+    }
+]
